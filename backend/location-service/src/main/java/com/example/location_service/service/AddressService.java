@@ -7,7 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 @Service
 public class AddressService {
-    private static final String API_KEY = "c7ff680adaae4af982f6b871e7107d96";
+    private static final String API_KEY = "";
     private static final String API_URL = "https://api.opencagedata.com/geocode/v1/json";
 
     public AddressDetails getLocationDetails(double latitude, double longitude) {
