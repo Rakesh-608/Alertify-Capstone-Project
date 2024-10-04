@@ -7,7 +7,7 @@ server:
 
 weatherbit:
   api:
-    key: 9b048f06cc0449a095e8bfc3067db3aa
+    key: 
     url: https://api.weatherbit.io/v2.0/alerts
 
 
